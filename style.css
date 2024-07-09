@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/02/10/55/60/240_F_210556027_pNmg4EUFwrn2W25SDdWayPakVIztTSe8.jpg);
+
+}
+
+
+
+
+
+
+#countainer {
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    justify-content: space-around;
+
+
+
+
+}
+
+nav {
+    font-size: 25px;
+}
+
+h4 {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-left: 20px;
+}
+
+img {
+    border-radius: 5px;
+}
